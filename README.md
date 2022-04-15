@@ -6,3 +6,7 @@
 解法：
 將input排列，再取其中位數作為Optimal Vito's house。
 將各個relative與Vito相減取絕對值，其總和則為答案。
+
+## 10055
+![](https://i.imgur.com/3Eu5RgQ.png)
+注意： long long int
