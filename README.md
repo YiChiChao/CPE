@@ -26,3 +26,6 @@
   * 空格就是確保更小的位數是非零的時候才能夠有空格
 * 注意：到底是要用char或是用long long int去存一個很大的數字要判別好。( long long int 是 9 * 10^18)
 
+## 10420
+![](https://i.imgur.com/LzGXXqE.png)
+*  解法：cpp STL map 

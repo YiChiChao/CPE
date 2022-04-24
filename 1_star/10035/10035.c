@@ -26,7 +26,6 @@ int getCarry(ll a, ll b){
 int main(){
     ll a, b;
     int carry = 0;
-    
     while(fscanf(stdin, "%lld %lld", &a, &b)!= EOF){
         if(a == 0 && b == 0)return 0;
         carry = getCarry(a, b);
