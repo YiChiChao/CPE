@@ -28,4 +28,10 @@
 
 ## 10420
 ![](https://i.imgur.com/LzGXXqE.png)
+* 題目描述：輸入一堆國家的女生(國籍加姓名)，並列舉出各個國家各有幾個女生。
 *  解法：cpp STL map 
+
+## 11321
+![](https://i.imgur.com/9aNtqYb.png)
+* 題目描述：依照題目以特殊規則排序
+* 解法：qsort並在compare function動手腳
