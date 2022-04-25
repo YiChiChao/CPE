@@ -35,3 +35,7 @@
 ![](https://i.imgur.com/9aNtqYb.png)
 * 題目描述：依照題目以特殊規則排序
 * 解法：qsort並在compare function動手腳
+>tip：  
+>if a>b return positive  
+>if a=b return 0       
+>if a<b return negative 
